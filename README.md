@@ -5,6 +5,7 @@ Traditional keyword-based search systems rely on lexical matching, often leading
 Semantic search, on the other hand, transcends the boundaries of literal interpretation, enabling a deeper comprehension of user queries and content semantics. It goes beyond mere keyword matching, tapping into the rich semantic relationships inherent in language to provide more accurate and contextually relevant results.
 
 ## 📦 System Design
+![image](https://github.com/wizenheimer/Spectre/assets/91504165/c97c69a5-8763-4e0f-9722-1a0ec97c6cd5)
 
 
 ## 🛠️ Tech Stack
